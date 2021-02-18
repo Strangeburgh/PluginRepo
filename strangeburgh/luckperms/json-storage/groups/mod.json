@@ -1,0 +1,13 @@
+{
+  "name": "mod",
+  "permissions": [
+    {
+      "permission": "bukkit.broadcast",
+      "value": true
+    },
+    {
+      "permission": "strangeburgh.command.gamemode",
+      "value": true
+    }
+  ]
+}
