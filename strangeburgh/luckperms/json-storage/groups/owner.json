@@ -1,0 +1,13 @@
+{
+  "name": "owner",
+  "permissions": [
+    {
+      "permission": "*",
+      "value": true
+    },
+    {
+      "permission": "displayname.§6Owner §8|§6",
+      "value": true
+    }
+  ]
+}

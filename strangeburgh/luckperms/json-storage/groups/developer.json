@@ -1,0 +1,266 @@
+{
+  "name": "developer",
+  "permissions": [
+    {
+      "permission": "worldguard.region.bypass.*",
+      "value": true
+    },
+    {
+      "permission": "bukkit.command.*",
+      "value": true
+    },
+    {
+      "permission": "minecraft.command.*",
+      "value": true
+    },
+    {
+      "permission": "strangeburgh.command.*",
+      "value": true
+    },
+    {
+      "permission": "bukkit.*",
+      "value": true
+    },
+    {
+      "permission": "hat.*",
+      "value": true
+    },
+    {
+      "permission": "luckperms.*",
+      "value": false
+    },
+    {
+      "permission": "maintenance.*",
+      "value": false
+    },
+    {
+      "permission": "minecraft.*",
+      "value": true
+    },
+    {
+      "permission": "troll.*",
+      "value": false
+    },
+    {
+      "permission": "worldguard.*",
+      "value": false
+    },
+    {
+      "permission": "-hat.diamond_hoe",
+      "value": true
+    },
+    {
+      "permission": "bukkit.command",
+      "value": true
+    },
+    {
+      "permission": "bukkit.command.gamemode",
+      "value": true
+    },
+    {
+      "permission": "bukkit.command.plugins",
+      "value": true
+    },
+    {
+      "permission": "displayname.§cDeveloper §8|§c",
+      "value": true
+    },
+    {
+      "permission": "essentials.antioch",
+      "value": false
+    },
+    {
+      "permission": "essentials.ban",
+      "value": false
+    },
+    {
+      "permission": "essentials.ban.exempt",
+      "value": false
+    },
+    {
+      "permission": "essentials.banip",
+      "value": false
+    },
+    {
+      "permission": "essentials.broadcast",
+      "value": false
+    },
+    {
+      "permission": "essentials.broadcastworld",
+      "value": false
+    },
+    {
+      "permission": "essentials.gamemode.others",
+      "value": false
+    },
+    {
+      "permission": "essentials.help",
+      "value": false
+    },
+    {
+      "permission": "essentials.invsee",
+      "value": false
+    },
+    {
+      "permission": "essentials.jail",
+      "value": false
+    },
+    {
+      "permission": "essentials.jails",
+      "value": false
+    },
+    {
+      "permission": "essentials.kick",
+      "value": false
+    },
+    {
+      "permission": "essentials.kick.exempt",
+      "value": false
+    },
+    {
+      "permission": "essentials.kickall",
+      "value": false
+    },
+    {
+      "permission": "essentials.kill",
+      "value": false
+    },
+    {
+      "permission": "essentials.nick",
+      "value": false
+    },
+    {
+      "permission": "essentials.nuke",
+      "value": false
+    },
+    {
+      "permission": "essentials.seen",
+      "value": false
+    },
+    {
+      "permission": "essentials.seen.extra",
+      "value": false
+    },
+    {
+      "permission": "essentials.sudo",
+      "value": false
+    },
+    {
+      "permission": "essentials.sudo.exempt",
+      "value": false
+    },
+    {
+      "permission": "essentials.tempban",
+      "value": false
+    },
+    {
+      "permission": "essentials.tempban.exempt",
+      "value": false
+    },
+    {
+      "permission": "essentials.tempbanip",
+      "value": false
+    },
+    {
+      "permission": "essentials.tp.others",
+      "value": false
+    },
+    {
+      "permission": "essentials.world",
+      "value": false
+    },
+    {
+      "permission": "maintenance",
+      "value": false
+    },
+    {
+      "permission": "maintenance.bypass",
+      "value": true
+    },
+    {
+      "permission": "minecraft",
+      "value": true
+    },
+    {
+      "permission": "minecraft.admin",
+      "value": true
+    },
+    {
+      "permission": "minecraft.command.effect",
+      "value": true
+    },
+    {
+      "permission": "minecraft.command.gamemode",
+      "value": true
+    },
+    {
+      "permission": "minecraft.command.gamerule",
+      "value": true
+    },
+    {
+      "permission": "minecraft.command.give",
+      "value": true
+    },
+    {
+      "permission": "minecraft.command.setblock",
+      "value": true
+    },
+    {
+      "permission": "minecraft.debugstick",
+      "value": true
+    },
+    {
+      "permission": "minecraft.debugstick.always",
+      "value": true
+    },
+    {
+      "permission": "minecraft.nbt",
+      "value": true
+    },
+    {
+      "permission": "minecraft.nbt.copy",
+      "value": true
+    },
+    {
+      "permission": "minecraft.nbt.place",
+      "value": true
+    },
+    {
+      "permission": "strangeburgh",
+      "value": true
+    },
+    {
+      "permission": "strangeburgh.command*",
+      "value": true
+    },
+    {
+      "permission": "strangeburgh.rank.developer",
+      "value": true
+    },
+    {
+      "permission": "sv.joinvanished",
+      "value": false
+    },
+    {
+      "permission": "worldguard.region.bypass",
+      "value": true
+    }
+  ],
+  "parents": [
+    {
+      "group": "default"
+    },
+    {
+      "group": "moderator"
+    },
+    {
+      "group": "partner"
+    },
+    {
+      "group": "premium"
+    },
+    {
+      "group": "technician"
+    }
+  ]
+}

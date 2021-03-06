@@ -1,3 +1,149 @@
 {
-  "name": "default"
+  "name": "default",
+  "permissions": [
+    {
+      "permission": "minecraft.command.*",
+      "value": false
+    },
+    {
+      "permission": "gsit.*",
+      "value": true
+    },
+    {
+      "permission": "multiverse.*",
+      "value": true
+    },
+    {
+      "permission": "smileychat.*",
+      "value": true
+    },
+    {
+      "permission": "ccrides.user",
+      "value": true
+    },
+    {
+      "permission": "displayname.§7Guest §8|§7",
+      "value": true
+    },
+    {
+      "permission": "essentials.afk",
+      "value": true
+    },
+    {
+      "permission": "essentials.afk.auto",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.143",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.acacia_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.birch_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.crimson_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.dark_oak_button",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.dark_oak_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.interact.oak_button",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.interact.oak_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.interact.polished_blackstone_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.jungle_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.oak_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.polished_blackstone_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.spruce_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.stone_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.warped_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.wooden_button",
+      "value": true
+    },
+    {
+      "permission": "essentials.build.interact.wooden_pressure_plate",
+      "value": true
+    },
+    {
+      "permission": "essentials.home",
+      "value": true
+    },
+    {
+      "permission": "essentials.home.compass",
+      "value": true
+    },
+    {
+      "permission": "essentials.home.list",
+      "value": true
+    },
+    {
+      "permission": "essentials.msg",
+      "value": true
+    },
+    {
+      "permission": "essentials.spawn",
+      "value": true
+    },
+    {
+      "permission": "essentials.warp",
+      "value": true
+    },
+    {
+      "permission": "essentials.warp.list",
+      "value": true
+    },
+    {
+      "permission": "minecraft.command",
+      "value": false
+    },
+    {
+      "permission": "minecraft.command.gamemode",
+      "value": false
+    },
+    {
+      "permission": "strangeburgh.command.gamemode",
+      "value": false
+    },
+    {
+      "permission": "strangeburgh.rank.guest",
+      "value": true
+    }
+  ]
 }
